@@ -1,0 +1,15 @@
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\bin\Debug\net6.0\03.exe
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\bin\Debug\net6.0\03.deps.json
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\bin\Debug\net6.0\03.runtimeconfig.json
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\bin\Debug\net6.0\03.dll
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\bin\Debug\net6.0\03.pdb
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.dll
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\refint\03.dll
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.pdb
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+C:\Users\AnsuzPert\Desktop\Новая папка\3 курс основы c#\dz08\03\obj\Debug\net6.0\ref\03.dll
